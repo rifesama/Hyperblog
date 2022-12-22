@@ -12,6 +12,7 @@
 - ¿Que tipos de wallets encontramos en el mercado?
 - ¿donde puede encontarn los sobre [bitcoin](https://youtu.be/VRo6n2DYc4o "bitcoin")?
 - ¿como crear un [nodo](https://youtu.be/TFl-J47azh8 "nodo") de bitcoin?
+- Creado por @colbitcoin 
 
 
 
